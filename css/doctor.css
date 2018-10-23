@@ -1,0 +1,73 @@
+body
+{
+	background-image:url("images/doc5.jpg");
+	background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url("images/doc5.jpg"); 
+	background-position:center center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	opacity:2%;
+}
+.fullimage
+{
+ 
+ width: 100%;
+ 
+
+ float:left;
+}
+.fullimage img
+{
+  width: 100%;
+  
+
+}
+.grey
+{
+	background-color: grey;
+}
+.footer{
+	background-color:#060832;
+    
+}
+
+.footer ul li a{
+	list-style: none;
+    color:white;
+	text-decoration: none;
+	float: left;
+	padding: 5px;
+	padding-top: 40px;
+}
+
+.footer ul li{
+	list-style: none;
+		padding: 0px;
+	padding-top: 1px;
+}
+.aqua
+{
+	background-color: aqua;
+}
+.lightgrey
+{
+	background-color: light-grey;
+}
+.blue
+{
+	background-color: white;
+	padding: 30PX;
+	text-align: justify;
+	margin-left: 25px;
+text-align: center;
+	margin-right: 25px;
+	margin-bottom: 30px;
+	margin-top:30px; 
+}
+.cont
+{
+	margin-top: 30px;
+	margin-bottom: 30px;
+	color: white;
+	padding: 20px;
+	text-align: center;
+}

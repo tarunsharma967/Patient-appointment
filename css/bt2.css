@@ -1,0 +1,143 @@
+.container-fluid
+{
+	background-color:#060832 ;
+}
+.header{
+	background-image: url("images/banner.jpg");
+	height: 200px;
+	width: 100%;
+	float: left;
+}
+.white
+{
+	background-color: white;
+}
+.web-content
+ {
+	background-color: white;
+	float: left;
+	margin-left: 1px;
+}
+
+.web-content .top-web-content{
+	background-color: white;
+	
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-left: 4px;
+}
+
+.web-content .top-web-content h2 span{
+	color: orange;	
+}
+
+.web-content .top-web-content ul li{
+	list-style-image: url("images/bullet1.jpg");	
+}
+
+
+.side-bar{
+	background-color: white;
+	float: right;
+	margin-top: 5px;
+	margin-left: 4px;
+    padding-left: 4px;
+    padding-right: 4px;
+    margin-bottom: 5px;
+    margin-right: 4px;
+}
+
+.side-bar .top-side-bar{
+	background-color: lightgrey;
+	float: right;
+	margin-top: -5px;
+	margin-left: 4px;
+    padding-left: 8px;
+    padding-right: 0px;
+    margin-bottom: 5px;
+    margin-right: -8px;
+}
+
+.side-bar .top-side-bar h2 span{
+	color: orange;
+}
+
+.side-bar .top-side-bar ul li{
+	list-style-image: url("template_3/images/bullet-2.jpg");
+		text-decoration: none;
+}
+.bottom-side-bar{
+	background-color: #002355;
+	float: right;
+	margin-top: -5px;
+	margin-left: 4px;
+    padding-left: 4px;
+    border-right-width: 4px;
+    padding-right: 4px;
+    margin-bottom: -10px;
+    margin-right: -8px;	
+    color: white;
+    padding: 15px;
+}
+
+.left-bottom-web-content h2 span{
+	color: orange;	
+}
+
+
+.right-bottom-web-content h2 span{
+	color: orange;	
+}
+
+.bottom-web-content{
+
+	background-color: lightblue;
+	margin-top: -7px;
+}
+
+.left-bottom-web-content{
+
+	background-color: white;
+	float: left;
+	margin-top: 5px;
+	margin-left: 4px;
+    padding-left: 4px;
+    padding-right: 4px;
+    margin-bottom: 5px;
+    margin-right: 7px;
+    border-right: 1px dotted grey;
+}
+
+.right-bottom-web-content{
+    background-color: white;
+	float: left;
+	margin-top: 5px;
+	margin-left: 7px;
+    padding-left: 4px;
+    padding-right: 4px;
+    margin-bottom: 5px;
+    margin-right: 4px;
+}
+.footer{
+	background-color:#060832;
+    
+}
+
+.footer ul li a{
+	list-style: none;
+    color:white;
+	text-decoration: none;
+	float: left;
+	padding: 5px;
+	padding-top: 40px;
+}
+
+.footer ul li{
+	list-style: none;
+		padding: 0px;
+	padding-top: 1px;
+}
+.navbar navbar-default
+{
+	border:none;
+}
