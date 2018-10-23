@@ -40,7 +40,7 @@
   <div class="container">
    <div class="row">
      <div class="col-lg-6">
-    <img  src="upload/<?php echo $row['image'] ?>" alt="oops cant show image" >
+    <img  src="upload/<?php echo $row['image'] ?>" alt="oops cant show image" class="img-responsive">
      </div>
 
      <div class="col-lg-6" style="background-color: #f7f7f7;">
